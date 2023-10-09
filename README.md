@@ -1,2 +1,2 @@
 # Readme
-Template repo for data science
+Tensorflow tutorial by Karlijn Willems @ Datacamp
